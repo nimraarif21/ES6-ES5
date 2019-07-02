@@ -1,6 +1,10 @@
-@import "~bootstrap/scss/bootstrap";
-body{
-    color:purple;
+
+.top {
+    color: blue;
+
+    .low {
+        color: green;
+    }
 }
 
 
